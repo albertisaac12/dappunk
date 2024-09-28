@@ -40,7 +40,7 @@ module.exports = {
     ],
   },
   sourcify: {
-    enabled: false,
+    enabled: true,
   },
   solidity: {
     version: "0.8.24",
